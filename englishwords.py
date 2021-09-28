@@ -508,157 +508,157 @@ def twentysix():
 
 with open ('words.txt', 'w') as f:
 
-	one()
+	one = one()
 	for word in one:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	two()
+	two = two()
 	for word in two:
 		f.write(word)
 		print(word)
 		f.write("\n")
 		
-	three()
+	three = three()
 	for word in three:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	four()
+	four = four()
 	for word in four:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	five()
+	five = five()
 	for word in five:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	six()
+	six = six()
 	for word in six:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	seven()
+	seven = seven()
 	for word in seven:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	eight()
+	eight = eight()
 	for word in eight:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	nine()
+	nine = nine()
 	for word in nine:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	ten()
+	ten = ten()
 	for word in ten:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	eleven()
+	eleven = eleven()
 	for word in eleven:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twelve()
+	twelve = twelve()
 	for word in twelve:
 		f.write(word)
 		print(word)
 		f.write("\n")
 		
-	thirteen()
+	thirteen = thirteen()
 	for word in thirteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	fourteen()
+	fourteen = fourteen()
 	for word in fourteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	fifthteen()
+	fifthteen = fifthteen()
 	for word in fifthteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	sixteen()
+	sixteen = sixteen()
 	for word in sixteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	seventeen()
+	seventeen = seventeen()
 	for word in seventeen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	eightteen()
+	eightteen = eightteen()
 	for word in eightteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	nineteen()
+	nineteen = nineteen()
 	for word in nineteen:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twenty()
+	twenty = twenty()
 	for word in twenty:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentyone()
+	twentyone = twentyone()
 	for word in twentyone:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentytwo()
+	twentytwo = twentytwo()
 	for word in twentytwo:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentythree()
+	twentythree = twentythree()
 	for word in twentythree:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentyfour()
+	twentyfour = twentyfour()
 	for word in twentyfour:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentyfive()
+	twentyfive = twentyfive()
 	for word in twentyfive:
 		f.write(word)
 		print(word)
 		f.write("\n")
 
-	twentysix()
+	twentysix = twentysix()
 	for word in twentysix:
 		f.write(word)
 		print(word)
