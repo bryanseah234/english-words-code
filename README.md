@@ -1,4 +1,4 @@
-# english-words-code
+# englishwords
 code to generate english words (and gibberish too)
 
 <p align="left">
