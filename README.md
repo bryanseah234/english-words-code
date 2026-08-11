@@ -1,4 +1,8 @@
 # englishwords
+
+
+![Project screenshot](./screenshot.png)
+
 code to generate english words (and gibberish too)
 
 <p align="left">
